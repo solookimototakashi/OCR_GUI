@@ -1,0 +1,7 @@
+[2022/09/30 03:30:33][DEBUG](SQLConnect.py:58) MySQLHeaderTo_df(SQL文を送信し、結果をDFに格納)完了: debug level log MySQLHeaderTo_df D:\PythonScript\RPAScript\Function\SQLConnect.py
+[2022/09/30 03:30:33][DEBUG](SQLCSVOUT.py:16) 関与先データベースをCSVアウト完了: debug level log <module> SQLCSVOUT.py
+[2022/09/30 03:30:33][DEBUG](SQLConnect.py:58) MySQLHeaderTo_df(SQL文を送信し、結果をDFに格納)完了: debug level log MySQLHeaderTo_df D:\PythonScript\RPAScript\Function\SQLConnect.py
+[2022/09/30 03:30:34][DEBUG](SQLCSVOUT.py:25) 関与先データベースをCSVアウト完了: debug level log <module> SQLCSVOUT.py
+[2022/09/30 03:30:34][DEBUG](SQLConnect.py:58) MySQLHeaderTo_df(SQL文を送信し、結果をDFに格納)完了: debug level log MySQLHeaderTo_df D:\PythonScript\RPAScript\Function\SQLConnect.py
+[2022/09/30 03:30:34][DEBUG](SQLCSVOUT.py:33) 社員情報をCSVアウト完了: debug level log <module> SQLCSVOUT.py
+[2022/09/30 03:30:34][DEBUG](SQLConnect.py:63) MySQLHeaderTo_df(SQL文を送信し、結果をDFに格納)失敗: debug level log MySQLHeaderTo_df D:\PythonScript\RPAScript\Function\SQLConnect.py

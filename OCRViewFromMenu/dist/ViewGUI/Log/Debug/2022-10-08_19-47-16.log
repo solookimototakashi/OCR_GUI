@@ -1,0 +1,42 @@
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:52) Network: DESKTOP-TLFUM41 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:53) Machine: AMD64 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:54) Processor: AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:55) Platform: Windows-10-10.0.19041-SP0 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:56) System: Windows __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:57) Release: 10 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:58) Version: 10.0.19041 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:59) MAC Address: A8A1_592F_A6D9 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:60) Host name: DESKTOP-TLFUM41 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:61) IP Address: 192.168.0.11 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:62) ViewGUI起動 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:16][DEBUG](ViewGUI.py:108) ViewGUI起動完了 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:19][DEBUG](ViewGUI.py:371) フォルダー選択起動 event_set_folder c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:19][DEBUG](ViewGUI.py:659) OverSaveボタン起動 event_Searchsave c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:25][DEBUG](ViewGUI.py:380) C:/Users/もちねこ/Desktop/PDFTEST_フォルダー選択完了 event_set_folder c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:28][DEBUG](ViewGUI.py:448) ファイル選択起動 event_updatefile c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:28][DEBUG](ViewGUI.py:659) OverSaveボタン起動 event_Searchsave c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:28][DEBUG](ViewGUI.py:486) C:/Users/もちねこ/Desktop/PDFTEST\Hirogin_1page.png_ファイル選択後イベント完了 event_selectfile c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:31][DEBUG](ViewGUI.py:710) OCR処理起動 LinOCROpen c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:31][DEBUG](ViewGUI.py:659) OverSaveボタン起動 event_Searchsave c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:32) TKINTERCV2Setting_Application起動 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:959) 列名設定項目を作成して再配置開始 createEntry c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:907) 列名設定項目を再配置開始 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:951) 列名設定項目を再配置完了 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:959) 列名設定項目を作成して再配置開始 createEntry c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:907) 列名設定項目を再配置開始 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:951) 列名設定項目を再配置完了 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:959) 列名設定項目を作成して再配置開始 createEntry c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:907) 列名設定項目を再配置開始 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:951) 列名設定項目を再配置完了 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:959) 列名設定項目を作成して再配置開始 createEntry c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:907) 列名設定項目を再配置開始 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:951) 列名設定項目を再配置完了 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:959) 列名設定項目を作成して再配置開始 createEntry c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:907) 列名設定項目を再配置開始 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:951) 列名設定項目を再配置完了 updateEntries c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:31][DEBUG](TKINTERCV2Setting.py:1329) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:32][DEBUG](TKINTERCV2Setting.py:815) 下ウィンドウに画像をリサイズして配置開始 InportIMG c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:32][DEBUG](TKINTERCV2Setting.py:503) TKINTERCV2Setting_Application起動完了 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:37][DEBUG](TKINTERCV2Setting.py:1353) 確定ボタンクリック処理開始 EnterP c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:37][DEBUG](TKINTERCV2Setting.py:1010) 列名設定項目取得関数開始 GetEntryTextButton_click c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py
+[2022/10/08 19:47:42][DEBUG](TKINTERCV2Setting.py:1467) 縦横リスト書出完了 EnterP c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\TKINTERCV2Setting.py

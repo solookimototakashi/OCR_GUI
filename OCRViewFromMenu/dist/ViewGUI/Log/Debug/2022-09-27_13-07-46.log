@@ -1,0 +1,100 @@
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:44) Network: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:45) Machine: AMD64 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:46) Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:47) Platform: Windows-10-10.0.19041-SP0 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:48) System: Windows __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:49) Release: 10 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:50) Version: 10.0.19041 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:51) MAC Address: 80E8_2CFB_55FD __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:52) Host name: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:53) IP Address: 192.168.56.1 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:54) ViewGUI起動 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:46][DEBUG](ViewGUI.py:293) ViewGUI起動完了 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:56][DEBUG](ViewGUI.py:558) 画像処理Save起動 event_clip_start d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:56][DEBUG](ViewGUI.py:579) 画像範囲選択イベント完了 event_clip_end d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:07:56][DEBUG](ViewGUI.py:608) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:01][DEBUG](ViewGUI.py:431) フォルダー選択起動 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:01][DEBUG](ViewGUI.py:608) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:04][DEBUG](ViewGUI.py:439) D:/OCRTESTPDF/PDFTEST_フォルダー選択完了 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:05][DEBUG](ViewGUI.py:446) ファイル選択起動 event_updatefile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:05][DEBUG](ViewGUI.py:608) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:07][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:07][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:07][DEBUG](ViewGUI.py:476) D:/OCRTESTPDF/PDFTEST\Hirogin_2page.png_ファイル選択後イベント完了 event_selectfile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:10][DEBUG](ViewGUI.py:647) OCR処理起動 LinOCROpen d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:10][DEBUG](ViewGUI.py:608) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:35) TKINTERCV2Setting_Application起動 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:13][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:700) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:648) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:692) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:700) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:648) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:692) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:700) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:648) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:692) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:700) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:648) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:692) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:700) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:648) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:692) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:1044) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:553) 下ウィンドウに画像をリサイズして配置開始 InportIMG d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:13][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:13][DEBUG](TKINTERCV2Setting.py:303) TKINTERCV2Setting_Application起動完了 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:13][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:13][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:08:19][DEBUG](TKINTERCV2Setting.py:1267) Line16_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:21][DEBUG](TKINTERCV2Setting.py:1267) Line15_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:26][DEBUG](TKINTERCV2Setting.py:1068) 確定ボタンクリック処理開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:26][DEBUG](TKINTERCV2Setting.py:744) 列名設定項目取得関数開始 GetEntryTextButton_click d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:08:27][DEBUG](TKINTERCV2Setting.py:1170) 縦横リスト書出完了 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:09:06][DEBUG](OCRFlow.py:85) Bankrentxtver起動 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/27 13:09:06][DEBUG](GCloudVision.py:108) get_document_bounds(GoogleVisionAPI)開始: debug level log get_document_bounds_BANK d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/27 13:09:07][DEBUG](GCloudVision.py:146) get_document_bounds(GoogleVisionAPI)終了: debug level log get_document_bounds_BANK d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/27 13:09:07][DEBUG](GCloudVision.py:416) rentxtver(OCR結果を整形eTax以外)成功: debug level log Bankrentxtver d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/27 13:09:07][DEBUG](OCRFlow.py:92) Bankrentxtver完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/27 13:09:07][DEBUG](OCRFlow.py:187) GoogleAPI後編集処理完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/27 13:09:07][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/09/27 13:09:07][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/27 13:09:07][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/27 13:09:07][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/27 13:09:07][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 21 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/27 13:09:07][DEBUG](OCRFlow.py:205) GoogleAPI後dfto_csv開始 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/27 13:09:07][DEBUG](OCRFlow.py:218) GoogleAPI後csv処理完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/27 13:09:07][DEBUG](TKINTERCV2Setting.py:1183) GoogleVisionAPI完了 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py

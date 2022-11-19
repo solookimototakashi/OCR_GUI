@@ -1,0 +1,20 @@
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:39) Network: DESKTOP-TLFUM41 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:40) Machine: AMD64 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:41) Processor: AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:42) Platform: Windows-10-10.0.19041-SP0 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:43) System: Windows __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:44) Release: 10 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:45) Version: 10.0.19041 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:46) MAC Address: A8A1_592F_A6D9 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:47) Host name: DESKTOP-TLFUM41 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:48) IP Address: 192.168.0.11 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:49) ViewGUI起動 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:13:58][DEBUG](ViewGUI.py:94) ViewGUI起動完了 __init__ c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:01][DEBUG](ViewGUI.py:702) フォルダー選択起動 event_set_folder c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:01][DEBUG](ViewGUI.py:990) OverSaveボタン起動 event_Searchsave c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:34][DEBUG](ViewGUI.py:711) C:/Users/もちねこ/Desktop/PDFTEST_フォルダー選択完了 event_set_folder c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:36][DEBUG](ViewGUI.py:779) ファイル選択起動 event_updatefile c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:36][DEBUG](ViewGUI.py:990) OverSaveボタン起動 event_Searchsave c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:36][DEBUG](ViewGUI.py:817) C:/Users/もちねこ/Desktop/PDFTEST\JA_1page.png_ファイル選択後イベント完了 event_selectfile c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:38][DEBUG](ViewGUI.py:1041) OCR処理起動 LinOCROpen c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py
+[2022/10/07 23:14:38][DEBUG](ViewGUI.py:990) OverSaveボタン起動 event_Searchsave c:\Users\もちねこ\Desktop\GitHub\RPAScript-1\OCRView\ViewGUI.py

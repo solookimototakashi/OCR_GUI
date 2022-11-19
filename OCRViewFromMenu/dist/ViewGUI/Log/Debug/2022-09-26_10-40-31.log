@@ -1,0 +1,17 @@
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:44) Network: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:45) Machine: AMD64 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:46) Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:47) Platform: Windows-10-10.0.19041-SP0 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:48) System: Windows __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:49) Release: 10 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:50) Version: 10.0.19041 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:51) MAC Address: 80E8_2CFB_55FD __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:52) Host name: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:53) IP Address: 192.168.56.1 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:54) ViewGUI起動 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:31][DEBUG](ViewGUI.py:293) ViewGUI起動完了 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:33][DEBUG](ViewGUI.py:431) フォルダー選択起動 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:33][DEBUG](ViewGUI.py:609) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:40:36][DEBUG](ViewGUI.py:439) フォルダー選択完了 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:41:30][DEBUG](ViewGUI.py:431) フォルダー選択起動 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/26 10:41:30][DEBUG](ViewGUI.py:609) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py

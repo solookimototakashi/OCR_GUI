@@ -1,0 +1,39 @@
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:47) Network: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:48) Machine: AMD64 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:49) Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:50) Platform: Windows-10-10.0.19041-SP0 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:51) System: Windows __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:52) Release: 10 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:53) Version: 10.0.19041 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:54) MAC Address: 80E8_2CFB_55FD __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:55) Host name: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:56) IP Address: 192.168.56.1 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:57) ViewGUI起動 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:35:57][DEBUG](ViewGUI.py:103) ViewGUI起動完了 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:03][DEBUG](ViewGUI.py:791) フォルダー選択起動 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:03][DEBUG](ViewGUI.py:1061) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:08][DEBUG](ViewGUI.py:800) D:/OCRTESTPDF/PDFTEST_フォルダー選択完了 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:11][DEBUG](ViewGUI.py:868) ファイル選択起動 event_updatefile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:11][DEBUG](ViewGUI.py:1061) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:11][DEBUG](ViewGUI.py:908) D:/OCRTESTPDF/PDFTEST\Hirogin_1page.png_ファイル選択後イベント完了 event_selectfile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:12][DEBUG](ViewGUI.py:1112) OCR処理起動 LinOCROpen d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:12][DEBUG](ViewGUI.py:1061) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:43) TKINTERCV2Setting_Application起動 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1080) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1028) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1072) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1080) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1028) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1072) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1080) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1028) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1072) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1080) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1028) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:12][DEBUG](TKINTERCV2Setting.py:1072) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:13][DEBUG](TKINTERCV2Setting.py:1080) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:13][DEBUG](TKINTERCV2Setting.py:1028) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:13][DEBUG](TKINTERCV2Setting.py:1072) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:13][DEBUG](TKINTERCV2Setting.py:1451) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:13][DEBUG](TKINTERCV2Setting.py:936) 下ウィンドウに画像をリサイズして配置開始 InportIMG d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/10/06 16:36:13][DEBUG](TKINTERCV2Setting.py:644) TKINTERCV2Setting_Application起動完了 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py

@@ -1,0 +1,23 @@
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:35) TKINTERCV2Setting_Application起動 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 08:18:28][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:634) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:582) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:626) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:634) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:582) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:626) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:634) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:582) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:626) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:634) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:582) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:626) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:634) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:582) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:626) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:977) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:487) 下ウィンドウに画像をリサイズして配置開始 InportIMG d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 08:18:28][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 08:18:28][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 08:18:28][DEBUG](TKINTERCV2Setting.py:288) TKINTERCV2Setting_Application起動完了 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py

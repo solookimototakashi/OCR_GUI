@@ -1,0 +1,21 @@
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:53) Network: DESKTOP-TLFUM41 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:54) Machine: AMD64 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:55) Processor: AMD64 Family 23 Model 113 Stepping 0, AuthenticAMD __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:56) Platform: Windows-10-10.0.19041-SP0 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:57) System: Windows __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:58) Release: 10 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:59) Version: 10.0.19041 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:60) MAC Address: A8A1_592F_A6D9 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:61) Host name: DESKTOP-TLFUM41 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:62) IP Address: 192.168.0.11 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:63) ViewGUI起動 __init__ ViewGUI.py
+[2022/10/14 22:42:27][DEBUG](ViewGUI.py:110) ViewGUI起動完了 __init__ ViewGUI.py
+[2022/10/14 22:42:31][DEBUG](ViewGUI.py:393) フォルダー選択起動 event_set_folder ViewGUI.py
+[2022/10/14 22:42:31][DEBUG](ViewGUI.py:681) OverSaveボタン起動 event_Searchsave ViewGUI.py
+[2022/10/14 22:42:35][DEBUG](ViewGUI.py:402) C:/Users/もちねこ/Desktop/GitHub/RPAScript-1/OCRView/dist/ViewGUI/CompanyData/1869_フォルダー選択完了 event_set_folder ViewGUI.py
+[2022/10/14 22:42:38][DEBUG](ViewGUI.py:470) ファイル選択起動 event_updatefile ViewGUI.py
+[2022/10/14 22:42:38][DEBUG](ViewGUI.py:681) OverSaveボタン起動 event_Searchsave ViewGUI.py
+[2022/10/14 22:42:38][DEBUG](ViewGUI.py:508) C:/Users/もちねこ/Desktop/GitHub/RPAScript-1/OCRView/dist/ViewGUI/CompanyData/1869\1869_7page.png_ファイル選択後イベント完了 event_selectfile ViewGUI.py
+[2022/10/14 22:42:40][DEBUG](ViewGUI.py:732) OCR処理起動 LinOCROpen ViewGUI.py
+[2022/10/14 22:42:40][DEBUG](ViewGUI.py:681) OverSaveボタン起動 event_Searchsave ViewGUI.py
+[2022/10/14 22:42:40][DEBUG](ViewGUI.py:790) OCR処理tomlファイル選択時Err LinOCROpen ViewGUI.py

@@ -1,0 +1,3 @@
+[2022/09/26 14:55:20][DEBUG](TKINTERCV2Setting.py:35) TKINTERCV2Setting_Application‹N“® __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/26 14:55:20][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/26 14:55:20][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py

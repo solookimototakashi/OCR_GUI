@@ -1,0 +1,734 @@
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:44) Network: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:45) Machine: AMD64 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:46) Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:47) Platform: Windows-10-10.0.19041-SP0 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:48) System: Windows __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:49) Release: 10 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:50) Version: 10.0.19041 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:51) MAC Address: 80E8_2CFB_55FD __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:52) Host name: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:53) IP Address: 192.168.56.1 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:54) ViewGUI起動 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:07][DEBUG](ViewGUI.py:79) ViewGUI起動完了 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:09][DEBUG](ViewGUI.py:503) ファイル選択起動 event_set_file d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:09][DEBUG](ViewGUI.py:749) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:13][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:13][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:13][DEBUG](ViewGUI.py:555) D:/OCRTESTPDF/PDFTEST_ファイル選択完了 event_set_file d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:15][DEBUG](ViewGUI.py:800) OCR処理起動 LinOCROpen d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:15][DEBUG](ViewGUI.py:749) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:35) TKINTERCV2Setting_Application起動 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:18][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:1008) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](TKINTERCV2Setting.py:532) 下ウィンドウに画像をリサイズして配置開始 InportIMG d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:18][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:18][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:19][DEBUG](TKINTERCV2Setting.py:286) TKINTERCV2Setting_Application起動完了 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:19][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:19][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:20:22][DEBUG](TKINTERCV2Setting.py:1032) 確定ボタンクリック処理開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:22][DEBUG](TKINTERCV2Setting.py:715) 列名設定項目取得関数開始 GetEntryTextButton_click d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:23][DEBUG](TKINTERCV2Setting.py:1142) 縦横リスト書出完了 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:23][DEBUG](OCRFlow.py:85) Bankrentxtver起動 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:20:23][DEBUG](GCloudVision.py:108) get_document_bounds(GoogleVisionAPI)開始: debug level log get_document_bounds_BANK d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/28 13:20:26][DEBUG](GCloudVision.py:146) get_document_bounds(GoogleVisionAPI)終了: debug level log get_document_bounds_BANK d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/28 13:20:26][DEBUG](GCloudVision.py:416) rentxtver(OCR結果を整形eTax以外)成功: debug level log Bankrentxtver d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/28 13:20:26][DEBUG](OCRFlow.py:92) Bankrentxtver完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:20:26][DEBUG](OCRFlow.py:187) GoogleAPI後編集処理完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:20:26][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/09/28 13:20:26][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:20:26][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:20:26][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:20:26][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 22 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:20:26][DEBUG](OCRFlow.py:205) GoogleAPI後dfto_csv開始 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:20:26][DEBUG](OCRFlow.py:218) GoogleAPI後csv処理完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:20:26][DEBUG](TKINTERCV2Setting.py:1155) GoogleVisionAPI完了 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:20:40][DEBUG](TKINTERCV2Setting.py:1160) 次ページ読込開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:21:01][DEBUG](ViewGUI.py:563) ファイル選択起動 event_updatefile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:01][DEBUG](ViewGUI.py:749) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:04][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:04][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 8192 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:04][DEBUG](ViewGUI.py:596) D:/OCRTESTPDF/PDFTEST\Hirogin_2page.png_ファイル選択後イベント完了 event_selectfile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:06][DEBUG](ViewGUI.py:650) Tryボタン起動 event_clip_try d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:08][DEBUG](ViewGUI.py:687) 画像処理Save起動 event_clip_start d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:08][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:09][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:10][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:12][DEBUG](ViewGUI.py:710) 画像範囲選択イベント完了 event_clip_end d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:12][DEBUG](ViewGUI.py:749) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:13][DEBUG](ViewGUI.py:665) Doneボタン起動 event_clip_done d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:13][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:13][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 8192 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:15][DEBUG](ViewGUI.py:650) Tryボタン起動 event_clip_try d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:16][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:16][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:16][DEBUG](ViewGUI.py:596) D:/OCRTESTPDF/PDFTEST\Hirogin_2page.png_ファイル選択後イベント完了 event_selectfile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:687) 画像処理Save起動 event_clip_start d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:18][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:19][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:20][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:21][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:22][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:22][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:23][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:23][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:23][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:25][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:26][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:27][DEBUG](ViewGUI.py:710) 画像範囲選択イベント完了 event_clip_end d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:27][DEBUG](ViewGUI.py:749) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:29][DEBUG](ViewGUI.py:665) Doneボタン起動 event_clip_done d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:29][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:29][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:33][DEBUG](ViewGUI.py:650) Tryボタン起動 event_clip_try d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:34][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:34][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:34][DEBUG](ViewGUI.py:596) D:/OCRTESTPDF/PDFTEST\Hirogin_2page.png_ファイル選択後イベント完了 event_selectfile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:687) 画像処理Save起動 event_clip_start d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:38][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:39][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:40][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:41][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:42][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:42][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:42][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:43][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:43][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:43][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:43][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:44][DEBUG](ViewGUI.py:697) 画像処理Undo起動 event_clip_keep d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:45][DEBUG](ViewGUI.py:710) 画像範囲選択イベント完了 event_clip_end d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:45][DEBUG](ViewGUI.py:749) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:47][DEBUG](ViewGUI.py:665) Doneボタン起動 event_clip_done d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:21:47][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:21:47][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:22:40][DEBUG](ViewGUI.py:768) ファイル削除起動 event_Oversave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:23:25][DEBUG](ViewGUI.py:800) OCR処理起動 LinOCROpen d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:23:25][DEBUG](ViewGUI.py:749) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:35) TKINTERCV2Setting_Application起動 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:23:36][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:676) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:624) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:668) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:1008) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:532) 下ウィンドウに画像をリサイズして配置開始 InportIMG d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:36][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:23:36][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/28 13:23:36][DEBUG](TKINTERCV2Setting.py:286) TKINTERCV2Setting_Application起動完了 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:23:48][DEBUG](TKINTERCV2Setting.py:832) 新規直線描画処理開始 NewLineCreate d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:24:31][DEBUG](TKINTERCV2Setting.py:1008) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:23][DEBUG](TKINTERCV2Setting.py:1245) Line34_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:29][DEBUG](TKINTERCV2Setting.py:1245) Line33_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:33][DEBUG](TKINTERCV2Setting.py:1245) Line32_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:37][DEBUG](TKINTERCV2Setting.py:1245) Line32_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:39][DEBUG](TKINTERCV2Setting.py:1245) Line36_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:50][DEBUG](TKINTERCV2Setting.py:1245) Line49_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:57][DEBUG](TKINTERCV2Setting.py:1032) 確定ボタンクリック処理開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:57][DEBUG](TKINTERCV2Setting.py:715) 列名設定項目取得関数開始 GetEntryTextButton_click d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:58][DEBUG](TKINTERCV2Setting.py:1142) 縦横リスト書出完了 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:25:58][DEBUG](OCRFlow.py:85) Bankrentxtver起動 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:25:58][DEBUG](GCloudVision.py:108) get_document_bounds(GoogleVisionAPI)開始: debug level log get_document_bounds_BANK d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/28 13:25:59][DEBUG](GCloudVision.py:146) get_document_bounds(GoogleVisionAPI)終了: debug level log get_document_bounds_BANK d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/28 13:25:59][DEBUG](GCloudVision.py:416) rentxtver(OCR結果を整形eTax以外)成功: debug level log Bankrentxtver d:\PythonScript\RPAScript\OCRView\GCloudVision.py
+[2022/09/28 13:25:59][DEBUG](OCRFlow.py:92) Bankrentxtver完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:25:59][DEBUG](OCRFlow.py:187) GoogleAPI後編集処理完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:25:59][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/09/28 13:25:59][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:25:59][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:25:59][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:25:59][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 21 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/09/28 13:25:59][DEBUG](OCRFlow.py:205) GoogleAPI後dfto_csv開始 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:25:59][DEBUG](OCRFlow.py:208) GoogleAPI後dfto_csvエラー後開始 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:25:59][DEBUG](OCRFlow.py:218) GoogleAPI後csv処理完了 DiffListCreate d:\PythonScript\RPAScript\OCRView\OCRFlow.py
+[2022/09/28 13:25:59][DEBUG](TKINTERCV2Setting.py:1155) GoogleVisionAPI完了 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/28 13:26:15][DEBUG](TKINTERCV2Setting.py:1160) 次ページ読込開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py

@@ -1,0 +1,25 @@
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:45) Network: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:46) Machine: AMD64 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:47) Processor: Intel64 Family 6 Model 165 Stepping 5, GenuineIntel __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:48) Platform: Windows-10-10.0.19041-SP0 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:49) System: Windows __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:50) Release: 10 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:51) Version: 10.0.19041 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:52) MAC Address: 80E8_2CFB_55FD __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:53) Host name: ws247 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:54) IP Address: 192.168.56.1 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:24][DEBUG](ViewGUI.py:55) ViewGUI起動 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:29][DEBUG](ViewGUI.py:101) ViewGUI起動完了 __init__ d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:31][DEBUG](ViewGUI.py:783) フォルダー選択起動 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:31][DEBUG](ViewGUI.py:1053) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:34][DEBUG](ViewGUI.py:792) D:/OCRTESTPDF/PDFTEST_フォルダー選択完了 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:35][DEBUG](ViewGUI.py:860) ファイル選択起動 event_updatefile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:35][DEBUG](ViewGUI.py:1053) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:41][DEBUG](ViewGUI.py:900) D:/OCRTESTPDF/PDFTEST\Hirogin_1page.png_ファイル選択後イベント完了 event_selectfile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:54][DEBUG](ViewGUI.py:783) フォルダー選択起動 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:54][DEBUG](ViewGUI.py:1053) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:55][DEBUG](ViewGUI.py:792) D:/OCRTESTPDF/PDFTEST_フォルダー選択完了 event_set_folder d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:57][DEBUG](ViewGUI.py:860) ファイル選択起動 event_updatefile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:57][DEBUG](ViewGUI.py:1053) OverSaveボタン起動 event_Searchsave d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:57][DEBUG](ViewGUI.py:900) D:/OCRTESTPDF/PDFTEST\Hirogin_1page - コピー.png_ファイル選択後イベント完了 event_selectfile d:\PythonScript\RPAScript\OCRView\ViewGUI.py
+[2022/10/06 14:18:59][DEBUG](ViewGUI.py:626) FileDelete関数起動 FileDelete d:\PythonScript\RPAScript\OCRView\ViewGUI.py

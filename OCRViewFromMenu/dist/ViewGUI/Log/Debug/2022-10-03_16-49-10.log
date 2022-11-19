@@ -1,0 +1,327 @@
+[2022/10/03 16:49:10][DEBUG](P_Table.py:18) P_Table起動 __init__ d:\PythonScript\RPAScript\OCRView\P_Table.py
+[2022/10/03 16:49:10][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:10][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:10][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:10][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:10][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.03719711294233849 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009554077741725984 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:10][DEBUG](DGFrame.py:103) ページ連結完了 JoinCSV d:\PythonScript\RPAScript\OCRView\Frame\DGFrame.py
+[2022/10/03 16:49:10][DEBUG](DGFrame.py:106) ページ連結失敗 JoinCSV d:\PythonScript\RPAScript\OCRView\Frame\DGFrame.py
+[2022/10/03 16:49:29][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:29][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:29][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:29][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:29][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.03719711294233849 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009554077741725984 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:29][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:31][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:31][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:31][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:31][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.037129881880497255 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009537666896491754 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:31][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:33][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:33][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:33][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:33][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.03706363229401137 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009521494754460928 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:33][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:35][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:35][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:35][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:35][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.036998342846460065 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009505556145167012 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:35][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:39][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:39][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:39][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:39][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.03693399281542029 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009489846046400609 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:39][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:40][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:40][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:40][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:40][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.03687056207053823 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009474359578933368 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:40][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:42][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:42][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:42][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:42][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.03680803105253392 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009459092001465667 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:42][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](eucjpprober.py:62) EUC-JP Japanese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\eucjpprober.py
+[2022/10/03 16:49:44][DEBUG](mbcharsetprober.py:66) EUC-KR Korean prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:44][DEBUG](mbcharsetprober.py:66) Big5 Chinese prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:44][DEBUG](mbcharsetprober.py:66) EUC-TW Taiwan prober hit error at byte 1 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:44][DEBUG](mbcharsetprober.py:66) CP949 Korean prober hit error at byte 18 feed d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\mbcharsetprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) windows-1251 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) KOI8-R Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) MacCyrillic Russian confidence = 0.036746380753093055 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) IBM866 Russian confidence = 0.009444038705786984 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) IBM855 Russian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) ISO-8859-7 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) windows-1253 Greek confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) ISO-8859-5 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) windows-1251 Bulgarian confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) TIS-620 Thai confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) ISO-8859-9 Turkish confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) windows-1255 Hebrew confidence = 0.0 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) utf-8 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) SHIFT_JIS Japanese confidence = 0.99 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) EUC-JP not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:101) GB2312 Chinese confidence = 0.01 get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) EUC-KR not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) CP949 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) Big5 not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py
+[2022/10/03 16:49:44][DEBUG](charsetgroupprober.py:98) EUC-TW not active get_confidence d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\chardet\charsetgroupprober.py

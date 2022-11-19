@@ -1,0 +1,37 @@
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:35) TKINTERCV2Setting_Application起動 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:38:55][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:703) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:651) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:695) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:703) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:651) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:695) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:703) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:651) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:695) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:703) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:651) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:695) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:703) 列名設定項目を作成して再配置開始 createEntry d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:651) 列名設定項目を再配置開始 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:695) 列名設定項目を再配置完了 updateEntries d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:1047) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:556) 下ウィンドウに画像をリサイズして配置開始 InportIMG d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:38:55][DEBUG](PngImagePlugin.py:186) STREAM b'IHDR' 16 13 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:38:55][DEBUG](PngImagePlugin.py:186) STREAM b'IDAT' 41 65536 call d:\PythonScript\RPAScript\OCRFlowVenv\lib\site-packages\PIL\PngImagePlugin.py
+[2022/09/27 13:38:55][DEBUG](TKINTERCV2Setting.py:303) TKINTERCV2Setting_Application起動完了 __init__ d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:01][DEBUG](TKINTERCV2Setting.py:869) 新規直線描画処理開始 NewLineCreate d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:15][DEBUG](TKINTERCV2Setting.py:1047) 透過キャンバス(上ウィンドウ)に罫線描画処理完了 Gra d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:18][DEBUG](TKINTERCV2Setting.py:1071) 確定ボタンクリック処理開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:18][DEBUG](TKINTERCV2Setting.py:747) 列名設定項目取得関数開始 GetEntryTextButton_click d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:28][DEBUG](TKINTERCV2Setting.py:965) 横直線追加ボタン処理開始 StWLine d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:31][DEBUG](TKINTERCV2Setting.py:1275) Line24_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:35][DEBUG](TKINTERCV2Setting.py:1275) Line24_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:40][DEBUG](TKINTERCV2Setting.py:1275) Line20_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:43][DEBUG](TKINTERCV2Setting.py:1275) Line20_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:46][DEBUG](TKINTERCV2Setting.py:1275) Line22_縦直線描画処理完了 click1 d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:51][DEBUG](TKINTERCV2Setting.py:1071) 確定ボタンクリック処理開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:39:51][DEBUG](TKINTERCV2Setting.py:747) 列名設定項目取得関数開始 GetEntryTextButton_click d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:40:32][DEBUG](TKINTERCV2Setting.py:1071) 確定ボタンクリック処理開始 EnterP d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
+[2022/09/27 13:40:32][DEBUG](TKINTERCV2Setting.py:747) 列名設定項目取得関数開始 GetEntryTextButton_click d:\PythonScript\RPAScript\OCRView\TKINTERCV2Setting.py
